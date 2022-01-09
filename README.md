@@ -1,1 +1,1 @@
-# React Redux 배운 코드 정리
+# React 배운 코드 정리
