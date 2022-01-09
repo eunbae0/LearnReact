@@ -2,7 +2,8 @@ import Exercise from './exercise'
 
 function App() {
   return (
-    <Exercise />
+    <></>
+    // <Exercise />
   );
 }
 
