@@ -1,8 +1,11 @@
-import Exercise from './exercise'
+// import Exercise from './exercise'
+import CounterContainer from './containers/CounterContainer'
 
 function App() {
   return (
-    <></>
+    <>
+      <CounterContainer />
+    </>
     // <Exercise />
   );
 }
